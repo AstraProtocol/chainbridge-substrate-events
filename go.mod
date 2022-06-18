@@ -1,4 +1,4 @@
-module github.com/Cerebellum-Network/chainbridge-substrate-events
+module github.com/AstraProtocol/chainbridge-substrate-events
 
 go 1.13
 
